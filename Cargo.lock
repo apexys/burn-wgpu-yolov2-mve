@@ -410,6 +410,7 @@ source = "git+https://github.com/tracel-ai/burn#1fd07fcb4a2591514524baf960a22666
 dependencies = [
  "burn-common",
  "burn-compute",
+ "burn-fusion",
  "burn-tensor",
  "bytemuck",
  "derive-new",
